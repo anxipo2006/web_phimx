@@ -1,0 +1,5 @@
+{
+  "name": "StreamUnbound",
+  "description": "A decentralized-style video sharing platform where users can upload and stream content instantly. Features AI-powered metadata generation and local browser storage for offline-capable playback.",
+  "requestFramePermissions": []
+}
